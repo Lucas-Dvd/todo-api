@@ -1,5 +1,4 @@
 export default class SaveTaskDto {
-  id: null | number;
-
+  id: number | null;
   name: string;
 }
